@@ -1,0 +1,16 @@
+.short-bio__main-info-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.short-bio__main-info-block__caption {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+.short-bio__main-info-block__text {
+  font-size: 16px;
+  white-space: pre-wrap;
+}
